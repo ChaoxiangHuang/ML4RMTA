@@ -7,7 +7,7 @@ import streamlit as st
 # --- Configuration ---
 st.set_page_config(layout="wide", page_title="ML4RM AI Teaching Assistant")
 
-JSON_FILE = "ml4rm_chapter_summaries_english_final.json"
+JSON_FILE = "ml4rm_summaries.json"
 API_KEY = "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"
 
 # --- OpenAI Client ---
