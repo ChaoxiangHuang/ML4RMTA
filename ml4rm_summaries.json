@@ -4,50 +4,6 @@
     "chapter_title": "Chapter 0",
     "topics": [
       {
-        "topic_title": "Detailed Goals )",
-        "subtitles": [],
-        "summary": "Detailed goals are specific, measurable, achievable, relevant, and time-bound objectives that provide a clear roadmap for achieving success. They help individuals or organizations focus their efforts, track progress, and stay motivated. Setting detailed goals involves breaking down larger objectives into smaller, actionable steps that can be monitored and adjusted as needed. By setting detailed goals, individuals can enhance their productivity, improve time management, and increase their chances of success in various areas of life.",
-        "quiz_questions": [
-          {
-            "question": "What does the acronym SMART stand for in relation to setting detailed goals?",
-            "options": [
-              "A. Specific, Measurable, Attainable, Realistic, Timely",
-              "B. Specific, Meaningful, Achievable, Relevant, Trackable",
-              "C. Simple, Motivating, Aspirational, Relevant, Targeted"
-            ],
-            "answer": "A. Specific, Measurable, Attainable, Realistic, Timely"
-          },
-          {
-            "question": "Why is it important to set detailed goals?",
-            "options": [
-              "A. To make life more complicated",
-              "B. To provide a clear roadmap for success",
-              "C. To increase confusion and uncertainty"
-            ],
-            "answer": "B. To provide a clear roadmap for success"
-          },
-          {
-            "question": "What is one benefit of breaking down larger objectives into smaller actionable steps when setting detailed goals?",
-            "options": [
-              "A. It makes the goals unattainable",
-              "B. It hinders progress",
-              "C. It allows for easier monitoring and adjustment"
-            ],
-            "answer": "C. It allows for easier monitoring and adjustment"
-          }
-        ],
-        "training_tasks": [
-          {
-            "task": "Choose a personal or professional goal and break it down into specific, measurable, attainable, relevant, and time-bound steps.",
-            "guidance": "Use the SMART criteria to ensure that each step is well-defined and achievable within a set timeframe. Track your progress and make adjustments as needed."
-          },
-          {
-            "task": "Create a detailed goals worksheet for a team project or initiative.",
-            "guidance": "Collaborate with team members to identify specific objectives, key milestones, and individual responsibilities. Use the worksheet to track progress and keep everyone aligned with the overall goals."
-          }
-        ]
-      },
-      {
         "topic_title": "From basic regression techniques to advanced neural networks, this section introduces a variety of algorithms fundamental to machine learning, each suited for different types of data and analysis. This includes： )",
         "subtitles": [],
         "summary": "Machine learning algorithms play a crucial role in data analysis, with regression techniques and neural networks being fundamental tools. Regression methods, such as linear regression, are used for predicting continuous outcomes based on input features. On the other hand, neural networks, including deep learning models, excel at capturing complex patterns in large datasets through layers of interconnected nodes. Understanding the strengths and limitations of each algorithm is essential for selecting the most appropriate approach for a given dataset and analysis goal.",
@@ -72,7 +28,7 @@
         ]
       },
       {
-        "topic_title": "Explore critical statistical concepts such as: )",
+        "topic_title": "Explore critical statistical concepts such as",
         "subtitles": [],
         "summary": "Critical statistical concepts are foundational principles that are essential for understanding and interpreting data effectively. These concepts include measures of central tendency such as mean, median, and mode, as well as measures of variability like standard deviation and variance. Understanding probability distributions, hypothesis testing, and correlation are also crucial for making informed decisions based on data analysis. Additionally, knowing the difference between causation and correlation is key to avoid misinterpretations. Mastery of these concepts is vital for anyone working with data in fields such as science, economics, and social sciences.",
         "quiz_questions": [
@@ -119,7 +75,7 @@
         ]
       },
       {
-        "topic_title": "Understand the importance of out-of-sample testing and cross-validation in building predictive models. )",
+        "topic_title": "Understand the importance of out-of-sample testing and cross-validation in building predictive models.",
         "subtitles": [],
         "summary": "Out-of-sample testing and cross-validation are crucial steps in building predictive models as they help evaluate a model's performance on unseen data. Out-of-sample testing involves testing the model on data that it has not been trained on, providing a more realistic assessment of its predictive capabilities. Cross-validation, on the other hand, involves partitioning the data into multiple subsets to validate the model iteratively, reducing the risk of overfitting and providing a more robust evaluation of the model's generalization ability.",
         "quiz_questions": [
@@ -148,7 +104,7 @@
         ]
       },
       {
-        "topic_title": "A curated list of books and online resources to further enhance understanding and provide additional perspectives on the topics discussed： )",
+        "topic_title": "A curated list of books and online resources to further enhance understanding and provide additional perspectives on the topics discussed",
         "subtitles": [],
         "summary": "This curated list consists of essential books and online resources aimed at deepening understanding and offering diverse perspectives on the discussed topics. These resources serve as supplementary materials to enrich knowledge and provide a well-rounded view of the subject matter.",
         "quiz_questions": [
@@ -244,35 +200,6 @@
     "chapter_number": 1,
     "chapter_title": "Chapter 1",
     "topics": [
-      {
-        "topic_title": "Themes of the Day )",
-        "subtitles": [],
-        "summary": "Themes of the Day is a teaching strategy designed to help students explore the themes of the day's lessons. Through this approach, teachers can stimulate students' interest in learning and deepen their understanding of the course content. This method can be implemented by introducing relevant questions, discussions, and practical activities to help students internalize knowledge and establish connections with everyday life.",
-        "quiz_questions": [
-          {
-            "question": "Why are Themes of the Day beneficial for student learning?",
-            "answer": "Themes of the Day can stimulate students' interest in learning and deepen their understanding of the course content."
-          },
-          {
-            "question": "How can the Themes of the Day be implemented?",
-            "answer": "Themes of the Day can be implemented by introducing relevant questions, discussions, and practical activities."
-          },
-          {
-            "question": "What is the purpose of Themes of the Day?",
-            "answer": "The purpose of Themes of the Day is to help students internalize knowledge and establish connections with everyday life."
-          }
-        ],
-        "training_tasks": [
-          {
-            "task": "Choose a theme, develop a \"Themes of the Day\" lesson plan, and design relevant questions and discussion activities.",
-            "task_description": "This task aims to assist educators in practicing how to design and implement the \"Themes of the Day\" teaching strategy."
-          },
-          {
-            "task": "Observe how other teachers utilize the \"Themes of the Day\" strategy, and document their methods and effectiveness.",
-            "task_description": "This task aims to enable educators to learn from the experiences of others and further refine their own Themes of the Day teaching practices."
-          }
-        ]
-      },
       {
         "topic_title": "Set up )",
         "subtitles": [],
